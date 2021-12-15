@@ -1,2 +1,5 @@
-# AppUsageAnalytics_PBDAP
-hello
+# Revealing the Reflexive Phone Tap
+A Comprehensive Study on User’s Intuition in Mobile Applications
+
+## Abstract
+In this project, we analyzed app usage behavior from three datasets with Hadoop related big data software to find out: the category information behind the prevalent mobile apps, and typical patterns of user app usage behavior. The results could be useful to a range of segments associated with mobile applications such as Operating System Kernels, App Developers, and further research studies. We found out, from two of the datasets, Message and Utility app category are the most popular. And in one dataset, Game and Utility are the most popular. We also found out that user tend to use apps from the same category in a sequence. We also proposed that mobile os developers can use this information to optimize the os resource management. However, further research is needed for this theory.
